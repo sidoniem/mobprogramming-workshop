@@ -4,7 +4,7 @@ A kata project to practice mob programming
 
 ## Use mob tool
 
-Install mob tool from [Mob.sh] (https://mob.sh/)
+Install mob tool from [Mob.sh](https://mob.sh/)
 ```curl -sL install.mob.sh | sudo sh```
 
 Example of how using mob tool : 
@@ -33,7 +33,7 @@ Example of how using mob tool :
 
 ## Try mobprogramming on the coffee machine kata
 
-The entire kata is described [here] (https://simcap.github.io/coffeemachine/).
+The entire kata is described [here](https://simcap.github.io/coffeemachine/)
 
 ### Project
 In this Coffe Machine Project, your task is to implement the logic (starting from a simple class) that translates orders from customers of the coffee machine to the drink maker. Your code will use the drink maker protocol to send commands to the drink maker.
