@@ -1,5 +1,5 @@
 const Order = {
-  sayHello: 'Hello Cookie Team',
+  orderCoffee: () => 'C',
 };
 
 export default Order;
